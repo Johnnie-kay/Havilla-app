@@ -93,7 +93,7 @@ Havilla-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Johnnie-kay/Havilla-app.git
+   git clone https://github.com/Kingvado1/Havilla-app.git
    cd Havilla-app/havilla
    ```
 
