@@ -2,7 +2,7 @@
 
 A comprehensive mobile application for venue browsing, booking management, calendar availability, and quote requests. Built with React Native and Expo.
 
-## 📱 Overview
+## Overview
 
 Havilla is a mobile-first platform that enables users to:
 - Browse and discover available venues
@@ -11,7 +11,7 @@ Havilla is a mobile-first platform that enables users to:
 - Request and manage quotes
 - Track booking history
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React Native**: 0.81.5
@@ -54,7 +54,7 @@ Havilla is a mobile-first platform that enables users to:
 - **TypeScript**: ^5.9.2
 - **React Test Renderer**: 19.1.0
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Havilla-app/
@@ -81,7 +81,7 @@ Havilla-app/
 └── .gitattributes                # Git configuration
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js >= 16.x
@@ -173,7 +173,7 @@ Services are typically located in `app/services/` and handle:
 - **Accept/Reject Quotes**: Manage quote responses
 - **Quote History**: Track quote requests and responses
 
-## 🎨 UI/UX Components
+## UI/UX Components
 
 ### Navigation Structure
 - **Bottom Tab Navigation**: Primary navigation for main screens
@@ -188,14 +188,14 @@ Services are typically located in `app/services/` and handle:
 - **Profile**: User account settings
 - **Notifications**: Booking and quote updates
 
-## 🔐 Security Features
+## Security Features
 
 - **Expo Secure Store**: Store sensitive data (tokens, passwords)
 - **Supabase Authentication**: Secure user authentication
 - **Environment Variables**: Hide sensitive configuration
 - **HTTPS**: All API communications encrypted
 
-## 🎯 Features
+## Features
 
 ### Core Features
 - ✅ Venue Discovery & Browsing
@@ -207,14 +207,7 @@ Services are typically located in `app/services/` and handle:
 - ✅ User Authentication
 - ✅ Booking History
 
-### Coming Soon
-- 📅 Advanced Calendar Features
-- 💬 In-app Messaging
-- ⭐ Enhanced Reviews & Ratings
-- 🎁 Loyalty Program
-- 📊 Analytics Dashboard
-
-## 🧪 Testing
+## Testing
 
 The project includes testing setup with React Test Renderer. To run tests:
 
@@ -222,7 +215,7 @@ The project includes testing setup with React Test Renderer. To run tests:
 npm test
 ```
 
-## 📦 Build & Deployment
+## Build & Deployment
 
 ### Build for Production
 
@@ -246,7 +239,7 @@ expo build:web
 - Android apps are published to Google Play Store
 - Web version can be deployed to static hosting
 
-## 🔄 State Management with Zustand
+## State Management with Zustand
 
 The app uses Zustand for lightweight state management. Store files are typically located in `app/store/`.
 
@@ -266,22 +259,22 @@ const useBookingStore = create((set) => ({
 const { bookings, addBooking } = useBookingStore();
 ```
 
-## 💾 Local Storage
+## Local Storage
 
 - **Async Storage**: Stores user preferences, cache data
 - **Secure Store**: Stores authentication tokens, passwords
 
-## 🌐 Deep Linking
+## Deep Linking
 
 The app supports deep linking through Expo Linking. Deep links use the `havilla://` scheme.
 
-## 📱 Platform Support
+## Platform Support
 
 - **iOS**: 12.0 or later (with Tablet support)
 - **Android**: API 21+ (with edge-to-edge and adaptive icons)
 - **Web**: Chrome, Safari, Firefox (modern browsers)
 
-## 🔧 Configuration
+## Configuration
 
 ### Expo Configuration (`app.json`)
 - App name: "havilla"
@@ -295,30 +288,30 @@ The app supports deep linking through Expo Linking. Deep links use the `havilla:
 - Path aliases: `@/*` maps to root directory
 - Expo types included
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
+3. Commit changes (`git commit -m 'Feature update'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is private. See the repository for license details.
 
-## 👥 Team
+## Team
 
 - **Repository Owner**: [Johnnie-kay](https://github.com/Johnnie-kay)
 - **Original Source**: [kingvado1/Havilla-app](https://github.com/kingvado1/Havilla-app)
 
-## 📞 Support & Contact
+## Support & Contact
 
 For issues, feature requests, or questions:
 - Open an issue on GitHub
 - Contact the development team
 
-## 📚 Additional Resources
+## Additional Resources
 
 - [Expo Documentation](https://docs.expo.dev/)
 - [React Native Documentation](https://reactnative.dev/)
