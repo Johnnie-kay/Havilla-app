@@ -93,7 +93,7 @@ Havilla-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kingvado1/Havilla-app.git
+   git clone https://github.com/kingvado1/Havilla-app.git
    cd Havilla-app/havilla
    ```
 
@@ -302,7 +302,7 @@ This project is private. See the repository for license details.
 
 ## Team
 
-- **Repository Owner**: [Johnnie-kay](https://github.com/Johnnie-kay)
+- **Repository Owner**: [Johnnie-kay](https://github.com/kingvado1)
 - **Original Source**: [kingvado1/Havilla-app](https://github.com/kingvado1/Havilla-app)
 
 ## Support & Contact
