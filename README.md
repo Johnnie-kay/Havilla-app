@@ -125,7 +125,7 @@ Havilla-app/
 | `npm run ios` | Start on iOS simulator |
 | `npm run web` | Start in web browser |
 
-## 🔌 API Integration
+## API Integration
 
 ### Backend Service: Supabase
 
